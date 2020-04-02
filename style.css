@@ -1,0 +1,179 @@
+.as
+{
+padding-bottom: 7.5%;
+position:relative;
+background-color: #f4eeff;
+  margin-bottom: 0px;
+}
+.op{
+padding-top: 3.25%;
+padding-bottom: 10.5%;
+postion: relative;
+background-color:#dcd6f7;
+margin-bottom: 0px;
+
+}
+body{
+
+     margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+background-color:;
+
+}
+
+
+.the{
+position: relative;
+display: inline-block;
+bottom: 2.1875rem;
+left: 60.25rem;
+visibility: hidden;
+} 
+.on{
+position: relative;
+display: inline-block;
+bottom: 2.1875rem;
+left: 65.25rem;
+visibility: hidden;
+}
+.ok{
+position: relative;
+display: inline-block;
+bottom: 2.1875rem;
+left: 69.25rem;
+visibility: hidden;
+}
+img
+{
+height: 20%;
+}
+.anuj{
+margin-top:10%;
+margin-bottom:20%;
+margin-left:0;
+margin-right:0;
+font-size: 500%;
+font-family: Rage, 'Meddon', cursive;
+letter-spacing: 0.5rem;
+color:#424874;
+}
+
+.desc{
+ font-family: Yu Gothic UI Semibold", Arial;
+ color: #323232;
+ line-height: 2.5; 
+letter-spacing: 0.2rem;
+font-size: 1.5rem;
+}
+.xc{
+margin-top:1.875%;
+border-style: dotted none none none;
+border-width: 0.50rem;
+width: 5%;
+border-color: #424874;
+margin-bottom:1.875%;
+padding: 2%;
+}
+
+.ij{
+border-height: 55%;
+
+width: 15%;
+position: relative;
+left: 18.625%;
+top: 0.5rem;
+display: inline-block;
+}
+.mk{
+
+margin: 0 auto 0 auto;
+
+
+}
+
+.image{
+border-radius: 100%
+
+}
+.namaste
+{
+color:#323232;
+font-family: 'Caveat', cursive;
+text-decoration: underline;
+font-size: 3rem;
+}
+
+.jk{
+position: fixed;
+background-color: #f4eeff;
+padding-left:0px;
+border-right-width: 25%;
+padding-right:63%;
+}
+.du
+{
+width:20%;
+height: 40%;
+position: relative;
+bottom: 30%;
+left: 70%;
+
+} 
+.do
+{
+width:10%;
+height: 20%;
+position: relative;
+bottom: 30rem;
+left: 40rem;
+right: 3rem;
+}
+.dc
+
+{
+width:20%;
+height: 40%;
+position: relative;
+bottom: 3.5%;
+
+}
+.skills
+{
+display: inline-block;
+color:#323232;
+font-family: 'Caveat', cursive;
+font-size: 3rem;
+letter-spacing: 0.2rem;
+
+}
+.web
+{
+width:40%;
+height:55%;
+}
+.mob
+{
+width:40%;
+height:10%;
+}
+.samosa
+{
+width:25%;
+height:5%;
+border-radius:100%;
+}
+.foot
+{
+padding-bottom: 1%;
+background-color:#424874;
+margin-top:2%;
+}
+.desec{
+ font-family: "Yu Gothic UI Semibold", cursive;
+ color: white;
+ line-height: 1; 
+letter-spacing: 0.2rem;
+font-size: 1.5rem;
+}
